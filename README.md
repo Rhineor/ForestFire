@@ -1,6 +1,6 @@
 # ForestFire
 
-This is a console app made with Visual Studio.
+This is a console app made with Visual Studio 2022.
 
 ## Parameters
 -threads [NUMBER_OF_THREADS]
